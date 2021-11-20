@@ -5,7 +5,7 @@ Fullstack Developer (Frontend and Backend) with +12 years of experience in web &
 <p>
 Current Stack:
 React, Angular 
-NodeJs, Nestjs.com. 
+NodeJs, Nestjs 
 Ionic, React Native.
 MySQL, MariaDB, Mongo, DynamoDB
 PHP Developer, Laravel, Yii, Symphony, Codeigniter
