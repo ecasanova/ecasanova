@@ -3,17 +3,26 @@
 Fullstack Developer (Frontend and Backend) with +13 years of experience in web & mobile development.
 </h3>
 <p>
-Current Stack:
-React, Angular 
-NodeJs, Nestjs 
-Ionic, React Native.
-MySQL, MariaDB, Mongo, DynamoDB
-PHP Developer, Laravel, Yii, Symphony, Codeigniter
+Fullstack Developer (Frontend and Backend) with +13 years of experience in web & mobile oriented development
+
+JAMStack:
+React / NextJS / NodeJS / NestJs / Express
+Contentful / Strapi / GraphQL / Hasura
+AWS / ECS / EC2 / S3 / Amplify / Netlify / Vercel
+Angular / Ionic / React Native. 
+MySQL / MariaDB / PostgreSQL / Mongo / Firebase / DynamoDB
+Docker
+
+Other:
+PHP, Laravel, Yii, Symphony, Codeigniter
 Wordpress, Magento, Prestashop, Joomla
 Rest API, Json, XML, Soap
 Git, Gitflow, Github
-DevOps, AWS, Digitalocean, Linode
-Scrum, Jira, ClickUP:
+Digitalocean, Linode
+Scrum, Jira, ClickUP
+
+Github:
+https://github.com/ecasanova
   
  📫  How to reach me **ecasanova@webfactorystudio.co**
 </p>
