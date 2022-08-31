@@ -3,8 +3,6 @@
 Fullstack Developer (Frontend and Backend) with +13 years of experience in web & mobile development.
 </h3>
 <p>
-Fullstack Developer (Frontend and Backend) with +13 years of experience in web & mobile oriented development
-
 JAMStack:
 React / NextJS / NodeJS / NestJs / Express
 Contentful / Strapi / GraphQL / Hasura
