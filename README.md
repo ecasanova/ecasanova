@@ -3,13 +3,13 @@
 Fullstack Developer (Frontend and Backend) with +14 years of experience in web & mobile development.
 </h3>
 <p>
-JAMStack:
-React / NextJS / NodeJS / NestJs / Express
-Contentful / Strapi / GraphQL / Hasura
-AWS / ECS / EC2 / S3 / Amplify / Netlify / Vercel
-Angular / Ionic / React Native. 
-MySQL / MariaDB / PostgreSQL / Mongo / Firebase / DynamoDB
-Docker
+JAMStack /
+React / NextJS / NodeJS / NestJs / Express /
+Contentful / Strapi / GraphQL / Hasura /
+AWS / ECS / EC2 / S3 / Amplify / Netlify / Vercel /
+Angular / Ionic / React Native /
+MySQL / MariaDB / PostgreSQL / Mongo / Firebase / DynamoDB /
+Docker /
 
 Other:
 PHP, Laravel, Yii, Symphony, Codeigniter
