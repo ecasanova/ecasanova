@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enrique Casanova, from Venezuela 🇻🇪,<br> currently living in Medellin Colombia 🇨🇴</h1>
+<h1 align="center">Hi 👋, I'm Enrique Casanova, from Colombia 🇨🇴</h1>
 <h3 align="center">
 Fullstack Developer (Frontend and Backend) with +15 years of experience in web & mobile development.
 </h3>
