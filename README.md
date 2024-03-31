@@ -3,21 +3,20 @@
 Fullstack Developer (Frontend and Backend) with +15 years of experience in web & mobile development.
 </h3>
 <p>
-JAMStack /
-React / NextJS / NodeJS / NestJs / Express / Serverless
+I am a Fullstack Developer with over 15 years of experience in web and mobile development, specializing in both Frontend and Backend technologies. Throughout my career, I have gained extensive expertise in building and managing complete applications, from designing user interfaces to implementing server-side logic and managing databases. My experience has equipped me with the skills to integrate technologies and deploy efficient, effective solutions to complex development challenges.</p>
+<p>
+React / NextJS / NodeJS / NestJs / Express / Serverless / GraphQL
 Storyblok / Contentful / Strapi / GraphQL / Hasura /
 AWS / ECS / EC2 / S3 / Amplify / Netlify / Vercel /
-Angular / Ionic / React Native /
-MySQL / MariaDB / PostgreSQL / Mongo / Firebase / DynamoDB /
-Docker /
+Angular / Ionic / React Native / Docker / DynamoDB /
+MySQL / MariaDB / PostgreSQL / Mongo / Firebase / JAMStack / 
 
 Other:
-PHP, Laravel, Yii, Symphony, Codeigniter
-Wordpress, Magento, Prestashop, Joomla
-Rest API, Json, XML, Soap
-Git, Gitflow, Github
-Digitalocean, Linode
-Scrum, Jira, ClickUP
+PHP / Laravel / Yii / Symphony / Codeigniter
+Wordpress / Magento / Prestashop / Joomla
+Rest API / Json / XML / Soap
+Git  / Digitalocean / Linode
+Scrum / Jira
 
 Github:
 https://github.com/ecasanova
