@@ -21,7 +21,7 @@ Scrum / Jira
 Github:
 https://github.com/ecasanova
   
- 📫  How to reach me **ecasanova@webfactorystudio.co**
+ 📫  How to reach me **contact@enriquecasanova.com**
 </p>
 
 <h3 align="left">Connect with me:</h3>
