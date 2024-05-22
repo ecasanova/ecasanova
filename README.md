@@ -20,6 +20,9 @@ Scrum / Jira
 
 Github:
 https://github.com/ecasanova
+
+Website:
+https://enriquecasanova.com
   
  📫  How to reach me **contact@enriquecasanova.com**
 </p>
