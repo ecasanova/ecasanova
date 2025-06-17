@@ -1,8 +1,8 @@
-# <div align="center">👨‍💻 Enrique Casanova | Desarrollador Fullstack 🚀</div>
+# <div align="center">👨‍💻 Enrique Casanova | Fullstack Developer 🚀</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Colombia-43A047?style=for-the-badge&logo=colombia&logoColor=white&labelColor=101010" alt="Colombia"/>
-  <img src="https://img.shields.io/badge/-+17%20Años%20Experiencia-1976D2?style=for-the-badge&logoColor=white&labelColor=101010" alt="Experiencia"/>
+  <img src="https://img.shields.io/badge/-+17%20Years%20Experience-1976D2?style=for-the-badge&logoColor=white&labelColor=101010" alt="Experience"/>
 </div>
 
 <div align="center">
@@ -11,15 +11,15 @@
 
 <br/>
 
-## <div align="center">🚀 Sobre mí</div>
+## <div align="center">🚀 About Me</div>
 
-Soy un Desarrollador Fullstack con más de 17 años de experiencia en desarrollo web y móvil, especializado tanto en tecnologías Frontend como Backend. A lo largo de mi carrera, he adquirido amplia experiencia en la creación y gestión de aplicaciones completas, desde el diseño de interfaces de usuario hasta la implementación de lógica del lado del servidor y la administración de bases de datos.
+I'm a Fullstack Developer with over 17 years of experience in web and mobile development, specializing in both Frontend and Backend technologies. Throughout my career, I've gained extensive expertise in building and managing complete applications, from designing user interfaces to implementing server-side logic and managing databases.
 
-Mi experiencia me ha proporcionado las habilidades para integrar tecnologías y desplegar soluciones eficientes y efectivas para desafíos complejos de desarrollo.
+My experience has equipped me with the skills to integrate technologies and deploy efficient, effective solutions to complex development challenges.
 
 <br/>
 
-## <div align="center">💻 Stack Tecnológico</div>
+## <div align="center">💻 Technology Stack</div>
 
 <div align="center">
 
@@ -49,14 +49,14 @@ Mi experiencia me ha proporcionado las habilidades para integrar tecnologías y 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)
 
-### Base de Datos
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&labelColor=101010)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
 
-### Otras Tecnologías
+### Other Technologies
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)
@@ -67,7 +67,7 @@ Mi experiencia me ha proporcionado las habilidades para integrar tecnologías y 
 
 <br/>
 
-## <div align="center">📈 Estadísticas de GitHub</div>
+## <div align="center">📈 GitHub Stats</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ecasanova&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="170" />
@@ -76,7 +76,7 @@ Mi experiencia me ha proporcionado las habilidades para integrar tecnologías y 
 
 <br/>
 
-## <div align="center">📫 Contáctame</div>
+## <div align="center">📫 Contact Me</div>
 
 <div align="center">
   
